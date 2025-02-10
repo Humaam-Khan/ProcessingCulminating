@@ -10,4 +10,4 @@ Naturally, being coded in Processing means it's an OOP game. There are classes f
 # Utilization
 To play the game, download "TheGame" folder and then open up "Main.pde" in processing.
 
-To view the animations, you can create an animation object and then run any of the animations from the class. An example is shown in the main file at line 132
+To view the animations, you can create an animation object and then run any of the animations from the class. An example is shown in the main file at line 120
